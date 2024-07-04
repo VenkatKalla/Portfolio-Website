@@ -40,7 +40,7 @@
     display: flex;
     justify-content: space-around;
 }
-.devPic img{
+.pommuPic img{
     width: 719px;
     height: 77vh;
     position: absolute;
@@ -50,7 +50,7 @@
     
 
 }
-.devPic devshape{
+.pommuPic devshape{
     height: 100%;
     position: absolute;
     left: 50%;
@@ -59,7 +59,7 @@
     
 
 }
-.devInfo{
+.pommuInfo{
     display: flex;
     justify-content: center;
     flex-direction: column; 
